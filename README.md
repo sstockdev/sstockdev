@@ -11,6 +11,10 @@ Software Engineering student at NDSU. Software Engineer Intern at DigiKey, HPC S
 
 Python, Java, C#/.NET, SQL, JavaScript | Linux, Docker, Proxmox VE, Ansible | AI/ML
 
+## Find me
+ 
+[Blog](https://blog.sstock.dev) | [LinkedIn](https://linkedin.com/in/sstockdev)
+
 ---
 
 > "Who knows? Have patience. Go where you must go, and hope!" - Gandalf, The Two Towers
