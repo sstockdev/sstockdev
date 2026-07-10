@@ -9,7 +9,7 @@ Software Engineering student at NDSU. Software Engineer Intern at DigiKey, HPC S
 
 ## What I know
 
-Python, Java, C#/.NET, SQL, JavaScript | Linux, Docker, Proxmox VE, Ansible
+Python, Java, C#/.NET, SQL, JavaScript | Linux, Docker, Proxmox VE, Ansible | AI/ML
 
 ---
 
